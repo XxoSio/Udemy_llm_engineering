@@ -5,7 +5,7 @@
 
 This repository contains code, notes, and projects developed while taking the Udemy course
 [LLM Engineering: Master AI and Large Language Models]
-(https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/.
+(https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/).
 (Include personal modifications).
 The course provides a comprehensive overview of large language models (LLMs) and their applications in AI.
 
