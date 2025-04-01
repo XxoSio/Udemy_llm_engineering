@@ -9,30 +9,32 @@ This repository contains code, notes, and projects developed while taking the Ud
 
 This course covers:
 
--   **Fundamentals of AI and LLMs:** Learn the basics of artificial intelligence and the architecture behind large language models.
--   **Deep Learning Techniques:** Explore neural networks and deep learning methods that power modern AI systems.
--   **Prompt Engineering:** Understand best practices for interacting with LLMs, including prompt design and optimization.
--   **Real-World Applications:** Develop projects that implement LLMs in practical scenarios.
--   **Tools & Frameworks:** Gain hands-on experience with libraries and tools essential for AI development.
+**Fundamentals of AI and LLMs:** Learn the basics of artificial intelligence and the architecture behind large language models.
+**Deep Learning Techniques:** Explore neural networks and deep learning methods that power modern AI systems.
+**Prompt Engineering:** Understand best practices for interacting with LLMs, including prompt design and optimization.
+**Real-World Applications:** Develop projects that implement LLMs in practical scenarios.
+**Tools & Frameworks:** Gain hands-on experience with libraries and tools essential for AI development.
 
 ## Repository Structure
 
--   **`notebooks/`:** Jupyter notebooks containing code examples, experiments, and interactive learning sessions.
--   **`scripts/`:** Standalone Python scripts demonstrating key concepts and implementations.
--   **`docs/`:** Detailed course notes, supplementary reading materials, and documentation.
--   **`README.md`:** This file with an overview of the repository and course details.
+**`notebooks/`:** Jupyter notebooks containing code examples, experiments, and interactive learning sessions.
+**`scripts/`:** Standalone Python scripts demonstrating key concepts and implementations.
+**`docs/`:** Detailed course notes, supplementary reading materials, and documentation.
+**`README.md`:** This file with an overview of the repository and course details.
 
 ## How to Use This Repository
 
 1. **Clone the Repository:**
-    ```bash
+    ```
+    bash
     git clone https://github.com/yourusername/llm-engineering.git
     ```
 ````
 
 2. **Set Up the Environment:**
    Install required dependencies using the provided `requirements.txt` file:
-    ```bash
+    ```
+    bash
     pip install -r requirements.txt
     ```
 3. **Explore and Learn:**
@@ -45,7 +47,3 @@ This course covers:
 -   Basic knowledge of Python programming.
 -   Familiarity with machine learning concepts.
 -   A keen interest in AI and large language models.
-
-```
-
-```
